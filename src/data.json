@@ -108,15 +108,5 @@
         "answer": "Callback hell"
       }
     ]
-  },
-  {
-    "subject": "React.js",
-    "questions": [
-      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
-      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
-      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
-      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
-      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" }
-    ]
   }
 ]
