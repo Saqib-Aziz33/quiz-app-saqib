@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Mathametics",
+    "questions": [
+      {
+        "question": "What is 2 + 2?",
+        "answers": ["1", "3", "4", "none of these"],
+        "answer": "4"
+      },
+      {
+        "question": "What is 2 / 2?",
+        "answers": ["0", "4", "3", "1"],
+        "answer": "1"
+      },
+      {
+        "question": "What is five times eight?",
+        "answers": ["40", "45", "50", "35"],
+        "answer": "40"
+      },
+      {
+        "question": "What is 10%2?",
+        "answers": ["0", "1", "both a and b", "none of these"],
+        "answer": "0"
+      },
+      {
+        "question": "What is 5 - 35?",
+        "answers": ["30", "-30", "both a and b", "none of these"],
+        "answer": "-30"
+      }
+    ]
+  },
+  {
+    "subject": "Science",
+    "questions": [
+      {
+        "question": "Speed of light is ____",
+        "answers": ["299....m/s", "399....m/s", "499....m/s", "none of these"],
+        "answer": "299....m/s"
+      },
+      {
+        "question": "Human body have ___ bones",
+        "answers": ["204", "205", "206", "207"],
+        "answer": "206"
+      }
+    ]
+  },
+  {
+    "subject": "Javascript",
+    "questions": [
+      {
+        "question": "Javascript is a ______ language",
+        "answers": ["Programming", "Scripting", "both a and b", "Markup"],
+        "answer": "both a and b"
+      },
+      {
+        "question": "Javascript is introduced in _____",
+        "answers": ["1994", "1995", "1996", "1997"],
+        "answer": "1995"
+      },
+      {
+        "question": "Which release of javascript have a major impact",
+        "answers": ["es5", "es6", "es7", "es8"],
+        "answer": "es6"
+      },
+      {
+        "question": "Javascript can be used outside of a browser?",
+        "answers": ["Yes", "No"],
+        "answer": "Yes"
+      },
+      {
+        "question": "Which one is a high order function",
+        "answers": ["forEach()", "map()", "reduce()", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "Strings are immutabe",
+        "answers": ["Yes", "No"],
+        "answer": "Yes"
+      },
+      {
+        "question": "Node.js can be run on?",
+        "answers": ["Windows", "Unix", "Linux", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "The syntax for spead operator is?",
+        "answers": ["...array", "[...array]", "{...obj}", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "The rest operator is used for?",
+        "answers": [
+          "Change variable type",
+          "collect data",
+          "collect arguments of function",
+          "collect arguments of object"
+        ],
+        "answer": "collect arguments of function"
+      },
+      {
+        "question": "Nesting of callbacks is called",
+        "answers": [
+          "Callback nesting",
+          "Callback hell",
+          "Callback Bundle",
+          "Callback Complexity"
+        ],
+        "answer": "Callback hell"
+      }
+    ]
+  },
+  {
+    "subject": "React.js",
+    "questions": [
+      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
+      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
+      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
+      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" },
+      { "questions": "", "answers": ["", "", "", "", ""], "answer": "" }
+    ]
+  }
+]
